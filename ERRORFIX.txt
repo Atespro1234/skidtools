@@ -1,0 +1,16 @@
+
+                              NOT WORKING POSSIBLE FIXES
+-------------------------------------------------------------------------------------------------
+1. If you havent already go to https://nodejs.org/en/download/ and install node.js
+
+2. Cant paste token? right click and press paste.
+
+3. Keep getting error when opening tool? all tools in the folder dont drag to your desktop it needs to be in same folder as source.js.
+
+4. error code 1015 or unexpected token? This means you are spamming tokens to often and you are being rate limited wait a little bit before trying again and if it countinues turn on a vpn.
+
+5. Dont know what to open? Open Skid-Tools.bat in order to use this program successfully.
+
+6. Cant find module? Extract Skid-Tools folder in order for it to work!
+-------------------------------------------------------------------------------------------------
+If you cannot open chosen tool or it wont work follow the following instructions and if you have but non worked join https://discord.gg/7YwFHWU35H (ps if anything is detected as a virus 11/10 times its not the official skidtools and is a token stealer or some form or virus/rat.)
